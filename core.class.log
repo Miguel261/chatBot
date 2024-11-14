@@ -1,0 +1,175 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217443380646@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B14E4F21C6318A681D',
+    participant: undefined
+  },
+  messageTimestamp: 1727486344,
+  pushName: 'Angel Fajardo',
+  broadcast: false,
+  message: Message {
+    conversation: 'gta5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'gta5',
+  from: '5217443380646'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7d7122e8-e958-44ab-828d-6437a110b7a0',
+  keyword: 'key_5566d3d0-b92c-448f-8999-5c7e8fbeca7b',
+  answer: 'Hola, en SiESABI estamos para ayudarte, escribe el número de la opción que más se ajuste a tu consulta 🙌',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7db45a6bfae41111d8e2e8963c1b09e3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2766e7c1-faad-419d-9409-895247d7db05',
+  keyword: 'ans_7d7122e8-e958-44ab-828d-6437a110b7a0',
+  answer: '*Menú de opciones:*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'aa109a8d00c0c09ff081c391ae5ba953'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_876b742c-5271-458d-9e97-e5c1943d6b40',
+  keyword: 'ans_2766e7c1-faad-419d-9409-895247d7db05',
+  answer: '✅ 1. Credenciales no coinciden (Cambio de correo / Generación de contraseña)\n' +
+    '✅ 2. Puedo iniciar sesión pero no puedo accesar a los cursos\n' +
+    '✅ 3. Problemas con el avance de cursos\n' +
+    '✅ 4. Actualización de datos personales y laborales\n' +
+    '📄 *Visita nuestro aviso de privacidad:* https://educacion.imssbienestar.gob.mx/privacy-notice',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0b12f4306edeebcaf6f070447bdb3dd3'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217443380646@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB05DCB652DFF1241A15C',
+    participant: undefined
+  },
+  messageTimestamp: 1727486346,
+  pushName: 'Angel Fajardo',
+  broadcast: false,
+  message: Message {
+    conversation: '4',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '4',
+  from: '5217443380646'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0c490397-5664-4b4c-9bb8-5602c09ef9dd',
+  answer: 'Para actualizar su información, por favor siga los siguientes pasos:',
+  keyword: 'key_aad1d56f-abff-482c-8f09-6d7bd1794b38',
+  options: {
+    ref: null,
+    idle: null,
+    child: null,
+    delay: 0,
+    media: null,
+    nested: [],
+    buttons: [],
+    capture: false,
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0c225ce31be02c5d1315753527b2162a'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217121157309@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0F6DDC2877BE448A979',
+    participant: undefined
+  },
+  messageTimestamp: 1727486357,
+  pushName: '🤭',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5217121157309'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5217121157309@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08286C48593F3CE90E3',
+    participant: undefined
+  },
+  messageTimestamp: 1727486390,
+  pushName: '🤭',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'me puede apoyar para entrar a mi cuenta',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'me puede apoyar para entrar a mi cuenta',
+  from: '5217121157309'
+}
